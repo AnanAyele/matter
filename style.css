@@ -1,0 +1,25 @@
+body{
+    padding: 3% 3%;
+    font-family: Roboto, Arial, sans-serif;
+}
+
+nav{
+    text-align: right;
+}
+
+.par{
+    padding-left: 15%;
+}
+
+nav a{
+    text-decoration: none;
+    padding: 5px;
+    
+}
+nav a:hover{
+    font-style: italic;
+
+}
+p{
+    font-family: Roboto, Arial, sans-serif;   
+}
